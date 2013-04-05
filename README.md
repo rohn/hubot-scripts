@@ -1,3 +1,5 @@
+[![endorse](http://api.coderwall.com/robertkowalski/endorse.png)](http://coderwall.com/robertkowalski)
+
 # hubot-scripts
 
 These are a collection of my scripts for [hubot][hubot].
