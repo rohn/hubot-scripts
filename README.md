@@ -1,4 +1,4 @@
-[![endorse](http://api.coderwall.com/robertkowalski/endorse.png)](http://coderwall.com/robertkowalski)
+[![endorse](http://api.coderwall.com/rohn/endorse.png)](http://coderwall.com/rohn)
 
 # hubot-scripts
 
